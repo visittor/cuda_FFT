@@ -11,3 +11,6 @@ If you don't need those stuffs just import functions from FFT.py and FFT_transpo
 
 # Performance
 ![performance](./perf.png)
+
+# Note
+Maybe I will try to implement this on c++ later.
